@@ -35,11 +35,11 @@
 ### 📊 **GitHub Stats & Activity**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar7324&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar7324&theme=dark" />
 </p>
 
 ---
