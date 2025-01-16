@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Developer;Java+%7C+MERN+Stack;Shopify+Expert+%7C+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Developer;Java+%7C+MERN+Stack;+%7C+Web+Developer" />
 </p>
 
 ---
@@ -40,6 +40,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar7324&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitkumar7324&theme=github_dark" />
 </p>
 
 ---
